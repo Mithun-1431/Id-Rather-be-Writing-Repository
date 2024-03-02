@@ -14,3 +14,5 @@ The updates are made to the development branch -1.
 The updates are made to the development branch -2.
 The updates are made to the development branch -3.
 The updates are made to the development branch -4.
+
+Test -5 Update Synchronously
