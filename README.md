@@ -1,4 +1,4 @@
-changes to be submitted for the sme-review.
+changes to the "sample branch."
 
 
 
