@@ -18,4 +18,6 @@ The updates are made to the development branch -5. Added from Github.com
 
 Adding a line to test
 
-Synchronous test
+
+Synchronous test is local - merging "another test" from remote
+
