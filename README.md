@@ -21,3 +21,5 @@ Adding a line to test
 
 Synchronous test is local - merging "another test" from remote
 
+Synchronous file test 2.
+
